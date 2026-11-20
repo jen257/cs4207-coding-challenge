@@ -221,3 +221,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# CS4207 NYC Taxi Dataset & Local Shards
+*.parquet
+*.tar.gz
+*.tar
+shards/
+myenv/
